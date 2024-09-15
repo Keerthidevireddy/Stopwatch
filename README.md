@@ -28,7 +28,7 @@ This timer counts down from the time that you set. You can also pause or stop th
 
 ## How to Use (From Installation Executable)
 ### On Windows OS
-To use, download the installation executable from the [latest release](https://github.com/TeenageMutantCoder/Alarm-Clock/releases/latest). Then, run the executable and follow the steps in the installation wizard.
+To use, download the installation executable from the [latest release]. Then, run the executable and follow the steps in the installation wizard.
 
 ## How to Use (From Zip File With Executable)
 ### On Windows OS
